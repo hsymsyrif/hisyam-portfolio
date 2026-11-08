@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "title": "Muhammad Hisyam Syarif, System Integration Analyst",
+    "description": "System Integration Analyst di Bank Mandiri. Saya menghubungkan aplikasi, API, middleware, dan core banking agar transaksi mengalir dari ujung ke ujung."
+  },
+  "nav": {
+    "skip": "Langsung ke konten",
+    "primary": "Navigasi utama",
+    "menu": "Menu",
+    "close": "Tutup",
+    "language": "Bahasa",
+    "home": "Beranda",
+    "about": "Tentang",
+    "experience": "Pengalaman",
+    "work": "Karya",
+    "skills": "Keahlian",
+    "education": "Pendidikan",
+    "contact": "Kontak",
+    "intro": "Intro",
+    "currently": "Saat ini",
+    "localTime": "Waktu lokal",
+    "search": "Cari",
+    "palette": "Palet perintah",
+    "placeholder": "Lompat ke section atau jalankan perintah…",
+    "groupNavigate": "Navigasi",
+    "groupActions": "Aksi",
+    "groupLinks": "Tautan",
+    "actSwitch": "Ganti ke English",
+    "actReplay": "Putar ulang intro",
+    "actTop": "Kembali ke atas",
+    "noResults": "Tidak ditemukan",
+    "keys": "untuk pindah · Enter untuk buka · Esc untuk tutup",
+    "status": "Online",
+    "simulator": "Simulator",
+    "desc": {
+      "home": "Pembuka, dalam satu kalimat",
+      "about": "Apa yang saya kerjakan dan cara kerja saya",
+      "experience": "Jejak karier, dari kode sampai core banking",
+      "work": "Proyek pilihan dan repo publik",
+      "simulator": "Kirim pembayaran lewat simulasi sistem bank",
+      "skills": "Tools dan bidang yang saya kuasai",
+      "education": "Pendidikan, predikat, dan sertifikat",
+      "contact": "Temui saya di LinkedIn dan GitHub"
+    },
+    "stateNow": "Posisi Anda",
+    "stateDone": "Sudah dilihat",
+    "stateNext": "Berikutnya",
+    "jump": "Lompat"
+  },
+  "intro": {
+    "booting": "Menyalakan layanan…",
+    "exe": "hisyam.exe",
+    "logs": ["API gateway", "Middleware · ESB", "Core banking", "Portofolio"],
+    "gateTitle": "Dua sistem. Satu koneksi.",
+    "gateHint": "Tahan tombol, Space, atau Enter",
+    "gateButton": "Tahan untuk terhubung",
+    "skip": "Lewati cerita",
+    "c1kicker": "2020 · semua berawal",
+    "c1": "Dari satu baris kode",
+    "c2kicker": "50+ klien kemudian",
+    "c2": "Satu titik menjadi jaringan",
+    "c3kicker": "2025 · perbankan",
+    "c3": "Lalu saya belajar cara sistem berbicara",
+    "c4kicker": "Sekarang · Bank Mandiri",
+    "c4": "Menjaga semuanya tetap terhubung",
+    "ready": "Sistem siap",
+    "loading": "Memuat"
+  },
+  "hero": {
+    "role": "System Integration Analyst",
+    "lead": "Saya membuat aplikasi, API, middleware, dan core banking saling bicara, supaya setiap transaksi sampai ke tujuannya.",
+    "cta": "Mari terhubung",
+    "ctaSub": "Terbuka untuk diskusi",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "label": "Tentang",
+    "statement": "Saya menjembatani apa yang dibutuhkan bisnis [api] dengan sistem yang menjalankannya. Anggap saya orang yang membuat aplikasi, middleware [db], dan core banking [bank] berbicara dalam bahasa yang sama, lalu membuktikannya berjalan sebelum rilis.",
+    "sign": "Integrasi · Analisis · Pengujian"
+  },
+  "numbers": {
+    "label": "Dalam angka · sejak 2020",
+    "title1": "Yang sudah",
+    "title2": "dikerjakan",
+    "items": [
+      "Klien freelance",
+      "Proyek bank dalam 6 bulan",
+      "Organisasi",
+      "Tahun berkarya",
+      "Mahasiswa dibimbing",
+      "Paper IEEE",
+      "IPK, Cum Laude"
+    ],
+    "lead": "Enam tahun berkarya, dari kode freelance sampai integrasi bank, dalam angka.",
+    "scroll": "Scroll untuk menjelajah"
+  },
+  "experience": {
+    "label": "Pengalaman",
+    "title": "Log karier",
+    "now": "Sekarang",
+    "hint": "Semua peran dalam satu timeline: kapan mulai, berapa lama, dan apa fokusnya. Scroll atau pilih salah satu bar.",
+    "years": "Tahun berkarya",
+    "roles": "Peran",
+    "orgs": "Organisasi",
+    "current": "Sekarang di",
+    "highlights": "Sorotan",
+    "focus": "Fokus",
+    "duration": "Durasi",
+    "yr": "thn",
+    "mo": "bln",
+    "months": "bulan",
+    "log": "Log",
+    "types": {
+      "Full-time": "Penuh waktu",
+      "Freelance": "Freelance",
+      "Internship": "Magang",
+      "Program": "Program",
+      "Mentor": "Mentor"
+    },
+    "company": "Perusahaan"
+  },
+  "work": {
+    "label": "Karya",
+    "title": "Systems, in motion",
+    "sub": "Proyek melengkung masuk dari satu sisi, menjadi fokus di tengah, lalu memudar di sisi lainnya.",
+    "listLabel": "Proyek pilihan",
+    "listLead": "Dari website klien sampai integrasi bank, ditambah repo publik pilihan dari GitHub. Pekerjaan perusahaan dijelaskan tanpa detail rahasia.",
+    "read": "Baca",
+    "count": "proyek"
+  },
+  "skills": {
+    "label": "Keahlian",
+    "title": "Toolkit",
+    "soft": "Cara bekerja",
+    "languages": "Bahasa",
+    "lead": "Empat toolkit yang saling melengkapi: integrasi sebagai inti, didukung engineering, kualitas data, dan desain.",
+    "domains": "Domain",
+    "tools": "Tools",
+    "traits": "Kekuatan",
+    "core": "Inti",
+    "toolsUnit": "tools",
+    "appliedAt": "Dipakai di"
+  },
+  "education": {
+    "label": "Pendidikan",
+    "title": "Belajar di",
+    "certificates": "Pencapaian",
+    "community": "Komunitas",
+    "lead": "Sistem Informasi di BINUS, lulus dalam 3,5 tahun, dengan riset yang dipublikasikan IEEE di sepanjang jalan.",
+    "record": "Catatan akademik",
+    "credential": "Kredensial",
+    "read": "Baca paper-nya"
+  },
+  "contact": {
+    "label": "Kontak",
+    "status": "Terbuka untuk koneksi baru",
+    "title1": "Mari hubungkan",
+    "title2": "sistem?",
+    "reply": "LinkedIn adalah cara tercepat untuk menghubungi saya."
+  },
+  "footer": {
+    "nav": "Navigasi",
+    "elsewhere": "Lainnya",
+    "top": "Kembali ke atas",
+    "replay": "Tonton ceritanya lagi"
+  },
+  "notFound": {
+    "title": "404 Not Found",
+    "lead": "Endpoint ini tidak ada.",
+    "back": "Kembali ke beranda"
+  },
+  "playground": {
+    "label": "Simulator",
+    "title": "Simulator integrasi",
+    "lead": "Kirim pembayaran lewat simulasi sistem bank dan lihat setiap hop-nya: routing, mapping ISO 8583, callback, retry, dan reversal.",
+    "scenario": "Skenario",
+    "run": "Kirim request",
+    "running": "Berjalan…",
+    "again": "Kirim lagi",
+    "speed": "Kecepatan",
+    "reset": "Reset",
+    "log": "Log live",
+    "inspector": "Payload",
+    "total": "Latensi",
+    "hops": "Hop",
+    "retries": "Retry",
+    "result": "Hasil",
+    "idle": "Pilih skenario lalu kirim request.",
+    "pick": "Pilih baris log untuk melihat payload-nya.",
+    "simulated": "Data simulasi · bukan API bank sungguhan"
+  },
+  "music": {
+    "tap": "Ketuk di mana saja untuk suara",
+    "play": "Putar",
+    "pause": "Jeda",
+    "shuffle": "Acak ke lagu lain",
+    "mute": "Bisukan",
+    "unmute": "Nyalakan suara",
+    "volume": "Volume"
+  },
+  "error": {
+    "code": "Galat internal",
+    "title": "Ada yang rusak",
+    "lead": "Terjadi galat yang tidak terduga. Tidak ada yang disimpan atau dikirim. Silakan coba lagi.",
+    "retry": "Coba lagi"
+  }
+}

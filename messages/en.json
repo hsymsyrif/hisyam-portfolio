@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "title": "Muhammad Hisyam Syarif, System Integration Analyst",
+    "description": "System Integration Analyst at Bank Mandiri. I connect apps, APIs, middleware and core banking so transactions flow end to end."
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "primary": "Main navigation",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "work": "Work",
+    "skills": "Skills",
+    "education": "Education",
+    "contact": "Contact",
+    "intro": "Intro",
+    "currently": "Currently",
+    "localTime": "Local time",
+    "search": "Search",
+    "palette": "Command palette",
+    "placeholder": "Jump to a section or run a command…",
+    "groupNavigate": "Navigate",
+    "groupActions": "Actions",
+    "groupLinks": "Links",
+    "actSwitch": "Switch to Bahasa Indonesia",
+    "actReplay": "Replay the intro",
+    "actTop": "Back to top",
+    "noResults": "No matches",
+    "keys": "to move · Enter to open · Esc to close",
+    "status": "Online",
+    "simulator": "Simulator",
+    "desc": {
+      "home": "The intro, in one line",
+      "about": "What I do and how I work",
+      "experience": "Career log, from code to core banking",
+      "work": "Selected projects and public repos",
+      "simulator": "Send a payment through a simulated bank stack",
+      "skills": "Tools and domains I work with",
+      "education": "Degrees, honours and certificates",
+      "contact": "Find me on LinkedIn and GitHub"
+    },
+    "stateNow": "You are here",
+    "stateDone": "Visited",
+    "stateNext": "Up next",
+    "jump": "Jump"
+  },
+  "intro": {
+    "booting": "Booting services…",
+    "exe": "hisyam.exe",
+    "logs": ["API gateway", "Middleware · ESB", "Core banking", "Portfolio"],
+    "gateTitle": "Two systems. One connection.",
+    "gateHint": "Hold the button, Space or Enter",
+    "gateButton": "Hold to connect",
+    "skip": "Skip the story",
+    "c1kicker": "2020 · it all started",
+    "c1": "With one line of code",
+    "c2kicker": "50+ clients later",
+    "c2": "One dot became a network",
+    "c3kicker": "2025 · banking",
+    "c3": "Then I learned how systems talk",
+    "c4kicker": "Now · Bank Mandiri",
+    "c4": "Keeping it all connected",
+    "ready": "Systems online",
+    "loading": "Loading"
+  },
+  "hero": {
+    "role": "System Integration Analyst",
+    "lead": "I make apps, APIs, middleware and core banking talk to each other, so every transaction gets where it’s going.",
+    "cta": "Let’s connect",
+    "ctaSub": "Open to conversations",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "label": "About",
+    "statement": "I bridge the gap between what the business needs [api] and the systems that run it. Think of me as the one who makes apps, middleware [db] and core banking [bank] speak the same language, then proves it works before release.",
+    "sign": "Integration · Analysis · Testing"
+  },
+  "numbers": {
+    "label": "In numbers · since 2020",
+    "title1": "Done",
+    "title2": "so far",
+    "items": [
+      "Freelance clients",
+      "Bank projects in 6 months",
+      "Organizations",
+      "Years building",
+      "Students mentored",
+      "IEEE paper",
+      "GPA, Cum Laude"
+    ],
+    "lead": "Six years of shipping, from freelance code to bank integrations, counted.",
+    "scroll": "Scroll to travel"
+  },
+  "experience": {
+    "label": "Experience",
+    "title": "Career log",
+    "now": "Now",
+    "hint": "Every role on one timeline: when it started, how long it ran, what it was about. Scroll or pick a bar.",
+    "years": "Years building",
+    "roles": "Roles",
+    "orgs": "Organisations",
+    "current": "Now at",
+    "highlights": "Highlights",
+    "focus": "Focus",
+    "duration": "Duration",
+    "yr": "yr",
+    "mo": "mo",
+    "months": "months",
+    "log": "Log",
+    "types": {
+      "Full-time": "Full-time",
+      "Freelance": "Freelance",
+      "Internship": "Internship",
+      "Program": "Program",
+      "Mentor": "Mentor"
+    },
+    "company": "Company"
+  },
+  "work": {
+    "label": "Work",
+    "title": "Systems, in motion",
+    "sub": "Projects curve in from one edge, come into focus at the centre, then fade away round the other.",
+    "listLabel": "Selected projects",
+    "listLead": "From client websites to bank integrations, plus selected public repos from GitHub. Company work is described without confidential details.",
+    "read": "Read",
+    "count": "projects"
+  },
+  "skills": {
+    "label": "Skills",
+    "title": "Toolkit",
+    "soft": "Working style",
+    "languages": "Languages",
+    "lead": "Four toolkits that work together: integration at the core, with engineering, data quality and design around it.",
+    "domains": "Domains",
+    "tools": "Tools",
+    "traits": "Strengths",
+    "core": "Core",
+    "toolsUnit": "tools",
+    "appliedAt": "Applied at"
+  },
+  "education": {
+    "label": "Education",
+    "title": "Learned at",
+    "certificates": "Recognition",
+    "community": "Community",
+    "lead": "Information Systems at BINUS, finished in 3.5 years, with research published by IEEE along the way.",
+    "record": "Academic record",
+    "credential": "Credential",
+    "read": "Read the paper"
+  },
+  "contact": {
+    "label": "Contact",
+    "status": "Open to new connections",
+    "title1": "Let’s connect",
+    "title2": "systems?",
+    "reply": "LinkedIn is the fastest way to reach me."
+  },
+  "footer": {
+    "nav": "Navigation",
+    "elsewhere": "Elsewhere",
+    "top": "Back to top",
+    "replay": "Watch the story again"
+  },
+  "notFound": {
+    "title": "404 Not Found",
+    "lead": "This endpoint doesn’t exist.",
+    "back": "Back to home"
+  },
+  "playground": {
+    "label": "Simulator",
+    "title": "Integration simulator",
+    "lead": "Send a payment through a simulated bank stack and watch every hop: routing, ISO 8583 mapping, callbacks, retries and reversals.",
+    "scenario": "Scenario",
+    "run": "Send request",
+    "running": "Running…",
+    "again": "Send again",
+    "speed": "Speed",
+    "reset": "Reset",
+    "log": "Live log",
+    "inspector": "Payload",
+    "total": "Latency",
+    "hops": "Hops",
+    "retries": "Retries",
+    "result": "Result",
+    "idle": "Pick a scenario and send a request.",
+    "pick": "Select a log line to inspect its payload.",
+    "simulated": "Simulated data · not a real bank API"
+  },
+  "music": {
+    "tap": "Tap anywhere for sound",
+    "play": "Play",
+    "pause": "Pause",
+    "shuffle": "Shuffle to another song",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "volume": "Volume"
+  },
+  "error": {
+    "code": "Internal error",
+    "title": "Something broke",
+    "lead": "An unexpected error happened. Nothing was saved or sent. Please try again.",
+    "retry": "Try again"
+  }
+}
